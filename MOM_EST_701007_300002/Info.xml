@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<record>
+	<field id="8" value="Mar. 8, 2018" />
+	<field id="27" value="3D digitization of the artifact using bidirectional flatbed scanning."/>
+	<field id="34" value="1464" />
+	<field id="35" value="1325" />
+	<record_link type="image" value="ImageLeft.png"/>
+	<record_link type="image" value="ImageBottom.png"/>
+</record>

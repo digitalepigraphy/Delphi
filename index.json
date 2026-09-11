@@ -1,0 +1,106 @@
+{
+  "Collection": "Delphi Squeezes from the E-stampages project",
+  "URL": "https://digitalepigraphy.github.io/Delphi/",
+  "Records": {
+    "MOM_EST_701007_300002": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Sources": [
+        {
+          "id": "MVA2010"
+        }
+      ]
+    },
+    "MOM_EST_701008_300006": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Sources": [
+        {
+          "id": "MVA2010"
+        }
+      ]
+    },
+    "MOM_EST_701010_300008": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Sources": [
+        {
+          "id": "MVA2010"
+        }
+      ]
+    },
+    "MOM_EST_701015_300014": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Sources": [
+        {
+          "id": "MVA2010"
+        }
+      ]
+    },
+    "MOM_EST_701021_300021": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Sources": [
+        {
+          "id": "MVA2010"
+        }
+      ]
+    },
+    "MOM_EST_701022_300022": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Sources": [
+        {
+          "id": "MVA2010"
+        }
+      ]
+    },
+    "MOM_EST_701023_300023": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Sources": [
+        {
+          "id": "MVA2010"
+        }
+      ]
+    },
+    "MOM_EST_701024_300024": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Sources": [
+        {
+          "id": "MVA2010"
+        }
+      ]
+    },
+    "MOM_EST_701025_300025": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Sources": [
+        {
+          "id": "MVA2010"
+        }
+      ]
+    },
+    "MOM_EST_701026_300026": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Sources": [
+        {
+          "id": "MVA2010"
+        }
+      ]
+    },
+    "MOM_EST_701027_300018": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Sources": [
+        {
+          "id": "MVA2010"
+        }
+      ]
+    }
+  },
+  "Editors": {},
+  "Sources": {
+    "MVA2010": {
+      "Author(s)": "A. Barmpoutis, E. Bozia, R. S. Wagman",
+      "Title": "A novel framework for 3D reconstruction and analysis of ancient inscriptions",
+      "Publication": "Journal of Machine Vision and Applications",
+      "Volume": "21",
+      "Number": "6",
+      "Year": "2010",
+      "Pages": "989-998"
+    }
+  }
+}

@@ -1,6 +1,8 @@
 <?xml version="1.0"?>
 <record>
-	<field id="27" value="3D digitization of the artifact using bidirectional flatbed scanning."/>
+	<field id="27" value="3D digitization of the artifact using bidirectional flatbed scanning.">
+		<source id="../References/MVA2010/Info.xml"></source>
+	</field>
 	<record_link type="image" value="ImageRight.png"/>
 	<record_link type="image" value="ImageTop.png"/>
 </record>
